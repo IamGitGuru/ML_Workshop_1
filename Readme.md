@@ -2,7 +2,7 @@
 
 This workshop is presented to you by [ECAST -Electronics and computer Community Amidist Students, Thapathali](https://github.com/ecastthapathali) in coordination with [Tensor, IOE Thapathali](https://github.com/tensor-ioe). This workshop aims to introduce machine learning among students and young professionals, providing them with the foundational knowledge and skills necessary to understand and apply machine learning techniques in real-world scenarios.
 
-Throughout this session, we will cover key machine learning concepts, including data preprocessing, supervised learning algorithms, evaluation metrics, and practical examples of how to implement machine learning models using popular tools and libraries. By the end of the workshop, participants will have a clearer understanding of how machine learning works, its applications in various fields, and how to develop their own machine learning models for different tasks.
+In this session, we will cover key machine learning concepts, including data preprocessing, supervised learning algorithms, evaluation metrics, and practical examples of how to implement machine learning models using popular tools and libraries. By the end of the workshop, participants will have a clearer understanding of how machine learning works, its applications in various fields, and how to develop their own machine learning models for different tasks.
 
 ## Table of contents :
 
